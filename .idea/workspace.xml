@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e1a26a-e367-4a89-96f4-861d1e6e7443" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/css/style.less" afterPath="$PROJECT_DIR$/lib/css/style.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills/index.html" afterPath="$PROJECT_DIR$/skills/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -58,7 +57,7 @@
             <entry file="file://$PROJECT_DIR$/skills/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="638">
-                  <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+                  <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
                   <folding />
                 </state>
               </provider>
@@ -83,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.less" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/skills/index.html" />
         <option value="$PROJECT_DIR$/lib/css/style.less" />
+        <option value="$PROJECT_DIR$/skills/index.html" />
       </list>
     </option>
   </component>
@@ -283,7 +282,7 @@
       <workItem from="1495533764904" duration="4186000" />
       <workItem from="1495556156018" duration="671000" />
       <workItem from="1497026658874" duration="7510000" />
-      <workItem from="1497209087051" duration="2197000" />
+      <workItem from="1497209087051" duration="2342000" />
     </task>
     <task id="LOCAL-00001" summary="iframe">
       <created>1492055216383</created>
@@ -408,7 +407,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28291000" />
+    <option name="totallyTimeSpent" value="28436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -590,18 +589,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skills/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="30" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skills/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
           <folding />
         </state>
       </provider>
